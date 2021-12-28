@@ -1,0 +1,8 @@
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\bin\Debug\netcoreapp3.1\Zawodnicy.Core.deps.json
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\bin\Debug\netcoreapp3.1\Zawodnicy.Core.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\bin\Debug\netcoreapp3.1\Zawodnicy.Core.pdb
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\obj\Debug\netcoreapp3.1\Zawodnicy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\obj\Debug\netcoreapp3.1\Zawodnicy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\obj\Debug\netcoreapp3.1\Zawodnicy.Core.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\obj\Debug\netcoreapp3.1\Zawodnicy.Core.pdb
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Core\obj\Debug\netcoreapp3.1\Zawodnicy.Core.csproj.AssemblyReference.cache

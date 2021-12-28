@@ -1,0 +1,9 @@
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.csproj.AssemblyReference.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.AssemblyInfoInputs.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.AssemblyInfo.cs
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.RazorAssemblyInfo.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\net5.0\Zawodnicy.WebApi2.RazorAssemblyInfo.cs

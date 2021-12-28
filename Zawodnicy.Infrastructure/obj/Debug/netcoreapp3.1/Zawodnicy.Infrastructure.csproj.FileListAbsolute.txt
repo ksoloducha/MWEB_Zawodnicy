@@ -1,0 +1,14 @@
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\bin\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.deps.json
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\bin\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.runtimeconfig.json
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\bin\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.runtimeconfig.dev.json
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\bin\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\bin\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.pdb
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\bin\Debug\netcoreapp3.1\Zawodnicy.Core.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\bin\Debug\netcoreapp3.1\Zawodnicy.Core.pdb
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\obj\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\obj\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\obj\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\obj\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.csproj.CopyComplete
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\obj\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\obj\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.pdb
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.Infrastructure\obj\Debug\netcoreapp3.1\Zawodnicy.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Zawodnicy.Core",
+    "\\Zawodnicy.Infrastructure",
+    "\\Zawodnicy.Infrastructure\\Repositories",
+    "\\Zawodnicy.Infrastructure\\Services"
+  ],
+  "SelectedNode": "\\Zawodnicy.Infrastructure\\Services\\SkiJumperService.cs",
+  "PreviewInSolutionExplorer": false
+}

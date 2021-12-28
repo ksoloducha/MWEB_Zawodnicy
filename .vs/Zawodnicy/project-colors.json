@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e850b502-90a4-4f99-9a47-65c18eaaacf2": {
+      "ProjectGuid": "e850b502-90a4-4f99-9a47-65c18eaaacf2",
+      "DisplayName": "Zawodnicy.Core",
+      "ColorIndex": 0
+    },
+    "6f338651-5d9a-40d2-aa7e-568fbef2fd45": {
+      "ProjectGuid": "6f338651-5d9a-40d2-aa7e-568fbef2fd45",
+      "DisplayName": "Zawodnicy.Infrastructure",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    },
+    "19a87db4-e14f-4db9-b0b5-184481e34389": {
+      "ProjectGuid": "19a87db4-e14f-4db9-b0b5-184481e34389",
+      "DisplayName": "ZawodnicyTest",
+      "ColorIndex": 2
+    },
+    "2784676d-d5bd-4420-88aa-33d60bb11fc1": {
+      "ProjectGuid": "2784676d-d5bd-4420-88aa-33d60bb11fc1",
+      "DisplayName": "ZawodnicyWebApi",
+      "ColorIndex": 3
+    },
+    "f28da72a-2fe1-496e-9441-34792f20c718": {
+      "ProjectGuid": "f28da72a-2fe1-496e-9441-34792f20c718",
+      "DisplayName": "Zawodnicy.WebApi",
+      "ColorIndex": 4
+    },
+    "49464a18-46c0-4411-a3a6-8ca70c331c74": {
+      "ProjectGuid": "49464a18-46c0-4411-a3a6-8ca70c331c74",
+      "DisplayName": "Zawodnicy.WebApp",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
