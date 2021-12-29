@@ -86,3 +86,4 @@ C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\bin
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\bin\Debug\netcoreapp3.1\Zawodnicy.WebApi.Views.pdb
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\netcoreapp3.1\Zawodnicy.WebApi.csproj.CopyComplete
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\obj\Debug\netcoreapp3.1\Zawodnicy.WebApi.genruntimeconfig.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

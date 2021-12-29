@@ -152,3 +152,8 @@ C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\obj\De
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\obj\Debug\netcoreapp3.1\ZawodnicyTest.dll
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\obj\Debug\netcoreapp3.1\ZawodnicyTest.pdb
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\obj\Debug\netcoreapp3.1\ZawodnicyTest.genruntimeconfig.cache
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\ZawodnicyTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll

@@ -5,9 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Zawodnicy.Infrastructure.Commands;
 using Zawodnicy.Infrastructure.DTO;
+using Zawodnicy.Infrastructure.Repositories;
 using Zawodnicy.Infrastructure.Services;
 
-namespace Zawodnicy.WebAPI.Controllers
+namespace Zawodnicy.WebApi.Controllers
 {
     [Route("[Controller]")]
     public class TrainerController : Controller

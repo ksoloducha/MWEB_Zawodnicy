@@ -6,7 +6,7 @@ using Zawodnicy.Infrastructure;
 using Zawodnicy.Infrastructure.Commands;
 using Zawodnicy.Infrastructure.Services;
 
-namespace Zawodnicy.WebAPI.Controllers
+namespace Zawodnicy.WebApi.Controllers
 {
     [Route("[Controller]")]
     public class SkiJumperController : Controller

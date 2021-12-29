@@ -34,6 +34,9 @@ namespace ZawodnicyWebApi
             services.AddScoped<ISkiJumpersRepository, SkiJumpersRepository>();
             services.AddScoped<ISkiJumperService, SkiJumperService>();
 
+            services.AddScoped<ITrainersRepository, TrainersRepository>();
+            services.AddScoped<ITrainerService, TrainerService>();
+
             services.AddDbContext<AppDbContext>(
                 options => options.UseSqlServer(
                     Configuration.GetConnectionString("SkiJumperConnectionString")
