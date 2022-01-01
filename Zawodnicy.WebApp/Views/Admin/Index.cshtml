@@ -1,0 +1,14 @@
+﻿@model Zawodnicy.WebApp.Models.TrainerVM
+
+<p>
+	<img src="~/images/banerdyscyplines.png" height="20" />
+	<a asp-action="Create">Add new trainer</a>
+
+	@{
+		if(!User.Identity.IsAuthenticated)
+		{
+			<br />
+			<i>Tylko zalogowany użytkownik może dodać, zmodyfikować lub usunąć trenera</i>
+		}
+	}
+</p>

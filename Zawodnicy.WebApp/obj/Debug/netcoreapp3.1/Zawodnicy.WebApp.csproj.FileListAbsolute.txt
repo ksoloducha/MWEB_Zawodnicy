@@ -161,3 +161,6 @@ C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApp\obj
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApp\obj\Debug\netcoreapp3.1\Zawodnicy.WebApp.genruntimeconfig.cache
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApp\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Kasia\Desktop\studia\semestr_V\mweb\lab1\Zawodnicy\Zawodnicy.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs

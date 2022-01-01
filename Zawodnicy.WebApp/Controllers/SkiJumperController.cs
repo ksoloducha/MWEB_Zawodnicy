@@ -1,9 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using Zawodnicy.WebApp.Models;
@@ -31,12 +35,14 @@ namespace Zawodnicy.WebApp.Controllers
         }
         public async Task<IActionResult> Index()
         {
+            var tokenString = GenerateJSONWebToken();
             string _restpath = GetHostUrl().Content + controllerName();
 
             List<SkiJumperVM> skiJumpersList = new List<SkiJumperVM>();
 
             using (var httpClient = new HttpClient())
             {
+                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", tokenString);
                 using (var response = await httpClient.GetAsync(_restpath))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
@@ -45,6 +51,28 @@ namespace Zawodnicy.WebApp.Controllers
             }
 
             return View(skiJumpersList);
+        }
+
+        private string GenerateJSONWebToken()
+        {
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("SuperTajneHaslo112233"));
+            var creadentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+
+            var claims = new[]
+            {
+                new Claim("Name", "Katarzyna"),
+                new Claim(JwtRegisteredClaimNames.Email, "01142469@pw.edu.pl"),
+            };
+
+            var token = new JwtSecurityToken(
+                issuer: "http://www.katarzynasoloducha.pl",
+                audience: "http://www.katarzynasoloducha.pl",
+                expires: DateTime.Now.AddHours(3),
+                signingCredentials: creadentials,
+                claims: claims
+            );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
         public async Task<IActionResult> Edit(int id)

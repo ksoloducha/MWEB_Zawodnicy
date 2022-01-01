@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Gah08wjq8rnR6jRv6gy4wS2I7bNnrDdR0AAD/N88CYFTHtHAI6/2MkRU7QoDY1SV4L2053hKFH7+FN4S+gZuAw==",
+  "dgSpecHash": "np8dHbtGPICpA8OxNbwaxPOENPBetsnTpxN5JOLY/D/rneRdEV9OvJbBu3MYJZ7O27gOIDgV/hnkh9Doll/jQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kasia\\Desktop\\studia\\semestr_V\\mweb\\lab1\\Zawodnicy\\Zawodnicy.WebApi\\Zawodnicy.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kasia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.22\\microsoft.aspnetcore.authentication.jwtbearer.3.1.22.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.0.0\\microsoft.aspnetcore.cryptography.internal.3.0.0.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.0.0\\microsoft.aspnetcore.cryptography.keyderivation.3.0.0.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.0.0\\microsoft.aspnetcore.identity.entityframeworkcore.3.0.0.nupkg.sha512",
